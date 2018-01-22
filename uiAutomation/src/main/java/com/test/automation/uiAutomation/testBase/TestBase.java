@@ -22,7 +22,7 @@ public class TestBase {
 		selectBrowser(browser);
 		getUrl(Url);
 		String log4jConfPath="log4j.properties";  //Registering the logger properties file
-		PropertyConfigurator.configure(log4jConfPath);
+		PropertyConfigurator.configure(log4jConfPath);  //Path
 		
 	}
 
