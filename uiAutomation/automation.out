@@ -1,0 +1,58 @@
+============Staring verifyLoginWithInvalidCredentails=====================
+Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (303c613c-38d0-4065-9cb4-5f42fcb07893)] -> link text: Sign in]
+Clicked on email  and object is[[FirefoxDriver: firefox on ANY (303c613c-38d0-4065-9cb4-5f42fcb07893)] -> id: email]
+Clicked on password  and object is[[FirefoxDriver: firefox on ANY (303c613c-38d0-4065-9cb4-5f42fcb07893)] -> id: passwd]
+Clicked on submit   and object is[[FirefoxDriver: firefox on ANY (303c613c-38d0-4065-9cb4-5f42fcb07893)] -> id: SubmitLogin]
+============Finished verifyLoginWithInvalidCredentails=====================
+%{YYYY-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails28 -============Staring verifyLoginWithInvalidCredentails=====================
+%{YYYY-MM-dd HH:MM:SS} INFO  HomePage37 -Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (e385e5ce-4c67-4882-a688-f8e39c4776f4)] -> link text: Sign in]
+%{YYYY-MM-dd HH:MM:SS} INFO  HomePage39 -Clicked on email  and object is[[FirefoxDriver: firefox on ANY (e385e5ce-4c67-4882-a688-f8e39c4776f4)] -> id: email]
+%{YYYY-MM-dd HH:MM:SS} INFO  HomePage41 -Clicked on password  and object is[[FirefoxDriver: firefox on ANY (e385e5ce-4c67-4882-a688-f8e39c4776f4)] -> id: passwd]
+%{YYYY-MM-dd HH:MM:SS} INFO  HomePage43 -Clicked on submit   and object is[[FirefoxDriver: firefox on ANY (e385e5ce-4c67-4882-a688-f8e39c4776f4)] -> id: SubmitLogin]
+%{YYYY-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails34 -============Finished verifyLoginWithInvalidCredentails=====================
+%{yyyy-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails:28 -============Staring verifyLoginWithInvalidCredentails=====================
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:37 -Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (43b527a7-597d-4157-879f-ad81d027557f)] -> link text: Sign in]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:39 -Clicked on email  and object is[[FirefoxDriver: firefox on ANY (43b527a7-597d-4157-879f-ad81d027557f)] -> id: email]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:41 -Clicked on password  and object is[[FirefoxDriver: firefox on ANY (43b527a7-597d-4157-879f-ad81d027557f)] -> id: passwd]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:43 -Clicked on submit   and object is[[FirefoxDriver: firefox on ANY (43b527a7-597d-4157-879f-ad81d027557f)] -> id: SubmitLogin]
+%{yyyy-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails:34 -============Finished verifyLoginWithInvalidCredentails=====================
+%{yyyy-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails:28 -============Staring verifyLoginWithInvalidCredentails=====================
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:37 -Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (573235b7-b058-4626-a594-ee30ed650d73)] -> link text: Sign in]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:39 -Clicked on email  and object is[[FirefoxDriver: firefox on ANY (573235b7-b058-4626-a594-ee30ed650d73)] -> id: email]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:41 -Clicked on password  and object is[[FirefoxDriver: firefox on ANY (573235b7-b058-4626-a594-ee30ed650d73)] -> id: passwd]
+%{yyyy-MM-dd HH:MM:SS} INFO  HomePage:43 -Clicked on submit   and object is[[FirefoxDriver: firefox on ANY (573235b7-b058-4626-a594-ee30ed650d73)] -> id: SubmitLogin]
+%{yyyy-MM-dd HH:MM:SS} INFO  TC001_VerifyLoginWithInvalidCredentails:34 -============Finished verifyLoginWithInvalidCredentails=====================
+ INFO | 2018-01-18 06:56:27,553 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 06:58:51,785 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:00:10,536 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:01:28,277 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:04:07,453 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:05:56,660 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:08:15,281 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:09:28,172 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:11:34,183 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:14:07,753 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:15:43,331 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:17:43,903 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:20:00,882 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:20:05,697 | HomePage.java | 73 | Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> link text: Sign in]
+ INFO | 2018-01-18 07:20:06,562 | HomePage.java | 75 | Clicked on email  object is[[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: email_create]
+ INFO | 2018-01-18 07:20:07,018 | HomePage.java | 77 | Clicked on submit button [[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: SubmitCreate]
+ INFO | 2018-01-18 07:20:08,750 | HomePage.java | 79 | Selected the saultion title [[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: id_gender1]
+ INFO | 2018-01-18 07:20:09,676 | HomePage.java | 81 | Entered the first name[[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: customer_firstname]
+ INFO | 2018-01-18 07:20:10,020 | HomePage.java | 83 | Entered the Last name[[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: customer_lastname]
+ INFO | 2018-01-18 07:20:10,261 | HomePage.java | 85 | Entered the email [[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: email]
+ INFO | 2018-01-18 07:20:10,476 | HomePage.java | 87 | Entered the password[[FirefoxDriver: firefox on ANY (15b18f8c-38e6-4a0b-897d-8b1a4fc9ec17)] -> id: passwd]
+ INFO | 2018-01-18 07:20:10,477 | TC002_VerifyRegistration.java | 30 | ============Ending VerifyRegistration=====================
+ INFO | 2018-01-18 07:42:51,549 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:45:41,965 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:46:47,927 | TC002_VerifyRegistration.java | 26 | ============Staring VerifyRegistration=====================
+ INFO | 2018-01-18 07:46:52,368 | HomePage.java | 76 | Clicked on sign in  and object is[[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> link text: Sign in]
+ INFO | 2018-01-18 07:46:52,674 | HomePage.java | 78 | Clicked on email  object is[[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: email_create]
+ INFO | 2018-01-18 07:46:53,703 | HomePage.java | 80 | Clicked on submit button [[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: SubmitCreate]
+ INFO | 2018-01-18 07:46:55,328 | HomePage.java | 82 | Selected the saultion title [[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: id_gender1]
+ INFO | 2018-01-18 07:46:55,979 | HomePage.java | 84 | Entered the first name[[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: customer_firstname]
+ INFO | 2018-01-18 07:46:56,260 | HomePage.java | 86 | Entered the Last name[[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: customer_lastname]
+ INFO | 2018-01-18 07:46:56,583 | HomePage.java | 88 | Entered the email [[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: email]
+ INFO | 2018-01-18 07:46:56,858 | HomePage.java | 90 | Entered the password[[FirefoxDriver: firefox on ANY (74f07225-7b91-467a-94a8-1b898080aba1)] -> id: passwd]
+ INFO | 2018-01-18 07:46:56,858 | TC002_VerifyRegistration.java | 30 | ============Ending VerifyRegistration=====================
